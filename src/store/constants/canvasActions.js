@@ -1,0 +1,3 @@
+const UPDATE_CANVAS = "UPDATE_CANVAS";
+
+export { UPDATE_CANVAS };
